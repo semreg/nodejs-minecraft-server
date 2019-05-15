@@ -60,4 +60,12 @@ typings/
 # next.js build output
 .next
 
+# Minecraft
 world/
+banned-ips.json
+banned-players.json
+eula.txt
+ops.json
+server.properties
+userchache.json
+whitelist.json
